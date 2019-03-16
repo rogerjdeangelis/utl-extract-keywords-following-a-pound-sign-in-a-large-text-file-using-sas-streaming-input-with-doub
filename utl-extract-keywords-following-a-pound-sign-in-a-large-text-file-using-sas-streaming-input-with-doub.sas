@@ -3,8 +3,12 @@ Extract keywords following a pound sign in a large text file using sas streaming
                                                                                                                            
 I simplified the SA Forum solution but might not be as general.                                                            
 Seems to work for missing and sigle letter keywords and keywords up to 20 characters?                                      
-                                                                                                                           
-github                                                                                                                     
+                
+github                                                                                                                                  
+https://tinyurl.com/y4yb2law                                                                                                            
+https://github.com/rogerjdeangelis/utl-extract-keywords-following-a-pound-sign-in-a-large-text-file-using-sas-streaming-input-with-doub                                                                                                                                                                     
+
+sas forum                                                                                                                     
 https://tinyurl.com/y555lusj                                                                                               
 https://communities.sas.com/t5/New-SAS-User/Reading-In-Obscure-Data-Only-Keep-Data-That-Follows-Specific/m-p/542638        
                                                                                                                            
